@@ -220,5 +220,5 @@ class ClickGuiScreen extends Screen {
     @Override
     public boolean shouldPause() {
         return false;
-    }
+    
 
