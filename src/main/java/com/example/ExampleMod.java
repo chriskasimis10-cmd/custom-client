@@ -221,4 +221,4 @@ class ClickGuiScreen extends Screen {
     public boolean shouldPause() {
         return false;
     }
-}
+
